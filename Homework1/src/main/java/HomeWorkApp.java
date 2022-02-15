@@ -15,7 +15,7 @@ public class HomeWorkApp {
         }
     }
     public static void printColor () {
-        int value = -6;
+        int value = -5;
         if (value <= 0) {
             System.out.println("red");
         } else if (value > 0 && value <= 100) {
