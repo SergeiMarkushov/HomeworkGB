@@ -31,7 +31,7 @@ public class HomeWorkApp {
             System.out.println("a<b");
         }
     }
- //next
+
     public static void main (String[]args){
         printTheeWords();
         checkSumSign();
