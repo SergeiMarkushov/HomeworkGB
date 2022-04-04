@@ -13,6 +13,7 @@
         <module name="Homework7" />
         <module name="Homework6" />
         <module name="Homework5" />
+        <module name="Homework8" />
         <module name="Homework2-1" />
       </profile>
     </annotationProcessing>
@@ -24,6 +25,7 @@
       <module name="Homework5" target="8" />
       <module name="Homework6" target="8" />
       <module name="Homework7" target="8" />
+      <module name="Homework8" target="8" />
       <module name="XOGameGBMod" target="8" />
     </bytecodeTargetLevel>
   </component>
