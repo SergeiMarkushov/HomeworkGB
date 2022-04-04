@@ -25,7 +25,7 @@ public class App extends JFrame {
         decrementButton.setFont(font);
 
 
-        JButton decrementButtonTen = new JButton("<10");
+        JButton decrementButtonTen = new JButton("-10");
         decrementButtonTen.setFont(font);
 
 
@@ -34,7 +34,7 @@ public class App extends JFrame {
         incrementButton.setFont(font);
 
 
-        JButton incrementButtonTen = new JButton(">10");
+        JButton incrementButtonTen = new JButton("+10");
         incrementButtonTen.setFont(font);
 
         JButton clear = new JButton("clear");
