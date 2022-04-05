@@ -26,6 +26,7 @@
       <module name="Homework6" target="8" />
       <module name="Homework7" target="8" />
       <module name="Homework8" target="8" />
+      <module name="JavaLevel2" target="8" />
       <module name="XOGameGBMod" target="8" />
     </bytecodeTargetLevel>
   </component>
