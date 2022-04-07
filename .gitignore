@@ -11,6 +11,7 @@
 .IML
 /target/
 .idea/git_toolbox_prj.xml
+.idea/**/vcs.xml
 
 
 # AWS User-specific
